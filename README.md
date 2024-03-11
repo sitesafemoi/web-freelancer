@@ -1,4 +1,4 @@
-# moises-proyecto1
+# Descripción     
     Este es un proyecto de práctica, no esta terminado completo, 
     cuya finalidad es simplemente repasar y poner en acción los conceptos basicos de html y css.    
 
